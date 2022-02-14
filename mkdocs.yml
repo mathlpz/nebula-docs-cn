@@ -14,7 +14,7 @@ theme:
   palette:
     - scheme: default
       primary: lime
-      accent: green
+      accent: blue
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
